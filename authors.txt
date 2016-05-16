@@ -14,4 +14,4 @@ slehti = slehti <slehti@domain.tld>
 slovin = Jasem Mutlaq <mutlaqja@ikarustech.com>
 swski = Jakub Smutný <linux@gxccd.com>
 wildi_markus = Markus Wildi <wildi.markus@bluewin.ch>
-wrtguy = wrtguy <wrtguy@domain.tld>
+wrtguy = Gerry Rozema <gerryr@rozeware.com>
