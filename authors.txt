@@ -13,5 +13,5 @@ rogerjames99 = rogerjames99 <rogerjames99@domain.tld>
 slehti = slehti <slehti@domain.tld>
 slovin = Jasem Mutlaq <mutlaqja@ikarustech.com>
 swski = swski <swski@domain.tld>
-wildi_markus = wildi_markus <wildi_markus@domain.tld>
+wildi_markus = Markus Wildi <wildi.markus@bluewin.ch>
 wrtguy = wrtguy <wrtguy@domain.tld>
